@@ -1,0 +1,5 @@
+.icons:hover {
+    background-color: transparent; /* Set background color to transparent on hover */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow on hover */
+  }
+  

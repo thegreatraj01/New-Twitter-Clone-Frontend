@@ -1,0 +1,17 @@
+.profile-sec{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(224, 246, 246);
+}
+.profile-img-sec{
+    position: relative;
+}
+.profile-img{
+    position: absolute;
+    top: -90%;
+    z-index: 1;
+}
+.edit-button:hover{
+background-color: #e9f2fa;
+
+}

@@ -1,0 +1,36 @@
+/* Explore.css */
+
+/* Style for the toast container */
+.toast-container {
+    width: 300px;
+  }
+  
+  /* Style for the entire toast content */
+  .custom-toast {
+    background-color: #ff4444; /* Red background color */
+    color: #ffffff; /* White text color */
+    padding: 15px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+  }
+  
+  /* Style for the buttons inside the toast */
+  .toast-button {
+    background-color: #ffffff; /* White background color */
+    color: #ff4444; /* Red text color */
+    border: 1px solid #ff4444; /* Red border */
+    padding: 5px 10px;
+    margin-left: 5px;
+    border-radius: 3px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .toast-button:hover {
+    background-color: #ffdddd; /* Light red background on hover */
+  }
+  

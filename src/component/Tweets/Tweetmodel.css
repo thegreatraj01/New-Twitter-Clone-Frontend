@@ -1,0 +1,19 @@
+.user-underline:hover {
+  text-decoration: underline;
+  color: rgb(30, 175, 232);
+  font-family: "Roboto", sans-serif;
+}
+.user-underline {
+  font-family: "Roboto", sans-serif;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.imghover {
+  border-radius: 15px;
+}
+
+.imghover:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Reduced opacity shadow on hover */
+  border-radius: 15px;
+}
